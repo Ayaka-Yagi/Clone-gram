@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clone-gram（トップページ）</title>
+    <title>Clone-gram（フォロワー一覧ページ画面）</title>
     <link rel="stylesheet" href="{{ asset('css/bootstrap.css'); }}">
     <link rel="stylesheet" href="{{ asset('css/all.css'); }}">
 </head>
 <body>
-    ※トップページ（投稿一覧）だよ
+    ※フォロワー一覧
     
 </body>
 </html>
