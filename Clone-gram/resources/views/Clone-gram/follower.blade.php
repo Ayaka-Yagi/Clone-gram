@@ -6,7 +6,7 @@
     <title>Clone-gram（フォロワー一覧ページ画面）</title>
 </head>
 <body>
-    ※フォロワー一覧だよ
+    ※フォロワー一覧
     
 </body>
 </html>
